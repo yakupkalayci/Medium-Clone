@@ -1,0 +1,26 @@
+.col-9{
+    max-width: 500px;
+}
+#header{
+    background-color: #C4E2FF;
+    height: 474px;
+}
+.nav-link{
+    color: black;
+    font-weight: 400;
+    font-family: "sohne, Helvetica Neue, Helvetica, Arial, sans-serif";
+}
+h2{
+    font-family: gt-super, Georgia, Cambria,Times New Roman, Times, serif; 
+    font-size:70px;
+    letter-spacing: -0.05em;
+    line-height: 74px;
+}
+#header-text{
+    font-size: 18px;
+    line-height: 24px;
+    font-family: sohne,Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+ul.list-inline>li.list-inline-item>a{
+    color: black;
+}
